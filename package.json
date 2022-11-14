@@ -1,0 +1,11 @@
+{
+  "name": "cpp-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "gypfile": "true",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^5.0.0"
+  }
+}

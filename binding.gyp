@@ -3,8 +3,8 @@
     {
       "target_name": "native",
       "sources": [
-        "binding.cpp",
-        "dsjin.cpp"
+        "./cpp/native.cpp",
+        "./cpp/dsjin.cpp"
       ],
       "include_dirs": [
         "<!@(node -p \"require('node-addon-api').include\")"
